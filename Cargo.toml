@@ -1,8 +1,13 @@
 [package]
-name = "autovec"
-version = "0.1.0"
+authors = ["Vin Singh Ghataore <theshampoofactory@gmail.com>"]
+description = """
+Auto-vectorization snippets
+"""
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+homepage = "https://github.com/shampoofactory/autovec"
+license = "MIT OR Apache-2.0"
+name = "autovec"
+repository = "https://github.com/shampoofactory/autovec"
+version = "0.1.0"
 
 [dependencies]
