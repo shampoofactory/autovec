@@ -130,7 +130,7 @@ pub fn case_vec4_add_to_mul_16(a: Vec4, b: Vec4) -> Vec4 {
 /// Pass by val, return by val: Vec4, addition simplify with multiply 15.
 /// Not essential, we can attempt to  work around this.
 pub fn case_vec4_add_to_mul_15(a: Vec4, b: Vec4) -> Vec4 {
-    a + b + b + b + b + b + b + b + b + b + b + b + b + b + b + b + b
+    a + b + b + b + b + b + b + b + b + b + b + b + b + b + b + b
 }
 
 /// Vec 4 * f32
